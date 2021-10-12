@@ -1,1 +1,372 @@
-
+{
+  "restaurantList": [
+    {
+      "address": "2a Phan Chu Trinh, Vung Tau 790000 Vietnam",
+      "phone": "0334830185",
+      "website": "https://www.facebook.com/vungtaupizza/",
+      "open_time": "",
+      "details": {
+        "cuisines": "Pizza, Seafood, Fast Food, Vietnamese, Beer restaurants",
+        "special_diets": "Vegetarian Friendly, Vegan Options",
+        "meals": "Lunch, Dinner, Drinks"
+      },
+      "name": "Pizza Leo"
+    },
+    {
+      "address": "9 Truong Vinh Ky Ward 1, Vung Tau 790000 Vietnam",
+      "phone": "+84 93 337 29 10",
+      "website": "http://Www.bistroninevungtau.com",
+      "open_time": "09:00 AM - 10:00 PM",
+      "details": {
+        "price_range": "₫45,455 - ₫454,545",
+        "special_diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
+        "meals": "Breakfast, Lunch, Dinner, Brunch, Late Night",
+        "cuisines": "French, International, European",
+        "features": "Outdoor Seating, Parking Available, Delivery, Takeout, Reservations, Seating, Street Parking, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts Mastercard, Accepts Visa, Free Wifi, Accepts Credit Cards, Table Service"
+      },
+      "name": "Bistro Nine"
+    },
+    {
+      "address": "152 Phan Chu Trinh, Vung Tau 760000 Vietnam",
+      "phone": "+84 90 264 69 45",
+      "website": "http://www.facebook.com/tajgrillatvungtau",
+      "open_time": "2 min:  Se / e all hours",
+      "details": {
+        "price_range": "₫4 - ₫12",
+        "special_diets": "Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",
+        "meals": "Lunch, Dinner, Late Night",
+        "cuisines": "Indian, Asian",
+        "features": "Delivery, Takeout, Reservations, Seating, Serves Alcohol, Free Wifi, Table Service"
+      },
+      "name": "Taj Grill Indian Restaurant"
+    },
+    {
+      "address": "6 Nguyen Du, Vung Tau 790000 Vietnam",
+      "phone": "+84 93 321 64 25",
+      "website": "http://vtmatildas.com/",
+      "open_time": "",
+      "details": {
+        "cuisines": "Pub, Australian, International",
+        "special_diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
+        "meals": "Breakfast, Lunch, Dinner, Brunch, Drinks"
+      },
+      "name": "Matildas"
+    },
+    {
+      "address": "03 Tran Phu -p.5-TP Vung Tau, Vung Tau Vietnam",
+      "phone": "+84 254 3550 909",
+      "website": "http://www.ganhhao.com.vn/index.php/vites-gance-ites-2",
+      "open_time": null,
+      "details": {
+        "special_diets": "Vegetarian Friendly, Gluten Free Options",
+        "meals": "Lunch, Dinner, Late Night",
+        "cuisines": "Seafood, Asian, Vietnamese",
+        "features": "Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Validated Parking, Highchairs Available, Serves Alcohol, Full Bar, Free Wifi, Accepts Credit Cards, Table Service, Waterfront"
+      },
+      "name": "Ganh Hao"
+    },
+    {
+      "address": "98C Xo Viet Nghe Tinh Street, Vung Tau Vietnam",
+      "phone": "+84 254 6508 033",
+      "website": "http://www.facebook.com/Don-quijote-284690285287201/",
+      "open_time": "11:00 AM - 10:30 PM",
+      "details": {
+        "price_range": "₫70 - ₫500",
+        "cuisines": "French, Bar, Barbecue, Spanish",
+        "special_diets": "Vegetarian Friendly"
+      },
+      "name": "Don Quijote Restaurant"
+    },
+    {
+      "address": "138 Ha Long Street, Vung Tau 94000 Vietnam",
+      "phone": "090643858896",
+      "website": "http://www.lucyssportsbar.com",
+      "open_time": null,
+      "details": {
+        "price_range": "₫83,426 - ₫333,704",
+        "cuisines": "Bar, Pub, International",
+        "special_diets": "Vegetarian Friendly, Vegan Options"
+      },
+      "name": "Lucys' Sports Bar and Hotel"
+    },
+    {
+      "address": "92 Ha Long Ward 2, Vung Tau 790000 Vietnam",
+      "phone": "+84 64 3521 012",
+      "website": "http://www.foody.vn/vung-tau/david-restaurant-am-thuc-y",
+      "open_time": null,
+      "details": {
+        "cuisines": "Italian, Pizza, European",
+        "special_diets": "Vegetarian Friendly, Vegan Options",
+        "meals": "Lunch, Dinner, Brunch, Late Night"
+      },
+      "name": "David Pizzeria"
+    },
+    {
+      "address": "230 Phan Chu Trinh, Vung Tau 790000 Vietnam",
+      "phone": "+84 254 3854 261",
+      "website": "https://www.facebook.com/LucaPizzaItalianRestaurant",
+      "open_time": "11:30 AM - 10:30 PM",
+      "details": {
+        "price_range": "₫113,636 - ₫568,182",
+        "cuisines": "Italian, Pizza, European, Grill",
+        "special_diets": "Vegetarian Friendly, Vegan Options"
+      },
+      "name": "Luca Pizza & Italian Restaurant"
+    },
+    {
+      "address": "53 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",
+      "phone": "+84 254 3527 707",
+      "website": "http://www.facebook.com/Bellys-Watering-Hole-600443493650154/",
+      "open_time": "07:00 AM - 10:00 PM",
+      "details": {
+        "price_range": "₫113,636 - ₫272,727",
+        "cuisines": "Bar, Australian, International",
+        "special_diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options"
+      },
+      "name": "Belly's Watering Hole"
+    },
+    {
+      "address": "3 Le Ngoc Han St Thao Dien, Vung Tau 70000 Vietnam",
+      "phone": "+84 93 875 79 48",
+      "website": "http://www.tommysvietnam.com",
+      "open_time": null,
+      "details": {
+        "price_range": "₫68,182 - ₫272,727",
+        "cuisines": "Italian, Cafe, Pub, Bar",
+        "special_diets": "Vegetarian Friendly"
+      },
+      "name": "Lily's Baradise and Restaurant"
+    },
+    {
+      "address": "I 28 Bau Sen 2, A Chau off Phan Chu Trinh Street, Vung Tau 790000 Vietnam",
+      "phone": "+84 98 690 50 52",
+      "website": "https://www.facebook.com/lylynguyen82/",
+      "open_time": "07:30 AM - 4:00 PM",
+      "details": {
+        "cuisines": "Cafe, Italian, British, Vietnamese",
+        "special_diets": "Vegetarian Friendly",
+        "meals": "Breakfast, Lunch, Brunch, Drinks"
+      },
+      "name": "Ly's Cafe"
+    },
+    {
+      "address": "201 Thong Nhat Street Ward 8, Vung Tau Vietnam",
+      "phone": "3807066",
+      "website": "http://sushitokyo.vn/?fbclid=IwAR1fP9iL7ppCysV1t1-aywYABom5OSnty_P2TR2-cYAeiHTWvw12-EQdmIU",
+      "open_time": null,
+      "details": {
+        "cuisines": "Japanese, Sushi, Asian",
+        "special_diets": "Vegetarian Friendly",
+        "meals": "Lunch, Dinner, Brunch"
+      },
+      "name": "Sushi Tokyo"
+    },
+    {
+      "address": "100 Phan Chu Trinh, Vung Tau Vietnam",
+      "phone": "+84 128 400 4349",
+      "website": "http://adamtroypub.weebly.com/",
+      "open_time": null,
+      "details": {
+        "cuisines": "Bar, Pub, Australian",
+        "special_diets": "Vegetarian Friendly",
+        "meals": "Breakfast, Lunch, Dinner, Brunch"
+      },
+      "name": "Adam Troy's Pub"
+    },
+    {
+      "address": "76 Phan Chu Trinh, Vung Tau 790000 Vietnam",
+      "phone": "+84 98 274 03 53",
+      "website": "https://www.facebook.com/New-Century-Fish-and-Chips-236855367162884/",
+      "open_time": "11:00 AM - 9:00 PM",
+      "details": {
+        "price_range": "₫2 - ₫20",
+        "special_diets": "Vegetarian Friendly",
+        "meals": "Lunch, Dinner, Brunch, Drinks",
+        "cuisines": "Fast Food, Pub, Bar, Cafe, European, British",
+        "features": "Delivery, Takeout, Reservations, Outdoor Seating, Seating, Wheelchair Accessible, Serves Alcohol, Full Bar, Free Wifi, Table Service"
+      },
+      "name": "Century Fish and Chips"
+    },
+    {
+      "address": "99 Vo Thi Sau, Vung Tau 790000 Vietnam",
+      "phone": "+84 8 3798 1962",
+      "website": "https://www.facebook.com/horizonbar1/",
+      "open_time": "09:00 AM - 12:00 AM",
+      "details": {
+        "price_range": "₫50,000 - ₫250,000",
+        "cuisines": "Bar, Cafe, British, Pub, Vietnamese",
+        "meals": "Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks"
+      },
+      "name": "Horizon Bar"
+    },
+    {
+      "address": "6 Tran Hung Dao Street, Vung Tau Vietnam",
+      "phone": "+84 254 3570 551",
+      "website": "http://www.facebook.com/Yummy-yummy-770255056501470/",
+      "open_time": "",
+      "details": {
+        "cuisines": "International",
+        "special_diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
+        "meals": "Dinner, Drinks"
+      },
+      "name": "Yummy Yummy Restaurant"
+    },
+    {
+      "address": "254A-B Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",
+      "phone": "+84 167 961 0538",
+      "website": null,
+      "open_time": "07:00 AM - 11:00 PM",
+      "details": {
+        "price_range": "₫30 - ₫300",
+        "cuisines": "American, Diner",
+        "special_diets": "Vegetarian Friendly"
+      },
+      "name": "OMG (Oh My God) Restaurant"
+    },
+    {
+      "address": "159 Thuy Van, Vung Tau 790000 Vietnam",
+      "phone": "+84 90 842 98 66",
+      "website": "https://www.facebook.com/LaSirenaVungTau/",
+      "open_time": null,
+      "details": {
+        "price_range": "₫50,000 - ₫10,000,000",
+        "meals": "Lunch, Dinner, Brunch, Drinks",
+        "cuisines": "Barbecue, British, Vietnamese, Seafood, Asian, Brew Pub, Pub",
+        "features": "Seating, Accepts Credit Cards, Table Service, Takeout, Reservations, Outdoor Seating, Buffet, Private Dining, Parking Available, Validated Parking, Highchairs Available, Serves Alcohol, Full Bar, Wine and Beer, Digital Payments, Free Wifi"
+      },
+      "name": "La Sirena Seafood Restaurant"
+    },
+    {
+      "address": "1 Hoang Hoa Tham Ward 3, Vung Tau 790000 Vietnam",
+      "phone": "+84 64 3526 165",
+      "website": "http://cobavungtau.com/",
+      "open_time": null,
+      "details": {
+        "cuisines": "Vietnamese",
+        "special_diets": "Vegan Options",
+        "meals": "Lunch, Dinner"
+      },
+      "name": "Banh Khot Co Ba Vung Tau"
+    },
+    {
+      "address": "12 Quang Trung Ward 1, Vung Tau 790000 Vietnam",
+      "phone": "+84 70 3546 845",
+      "website": "https://www.facebook.com/SoulPizzaVungTau/",
+      "open_time": "",
+      "details": {
+        "price_range": "₫35 - ₫279",
+        "cuisines": "Italian, Pizza",
+        "meals": "Dinner"
+      },
+      "name": "Soul Pizza"
+    },
+    {
+      "address": "07 Nguyen Trai St., Vung Tau Vietnam",
+      "phone": "+84 64 3510 685",
+      "website": null,
+      "open_time": null,
+      "details": {
+        "cuisines": "Indian, Asian",
+        "special_diets": "Vegetarian Friendly, Vegan Options",
+        "meals": "Dinner, Lunch"
+      },
+      "name": "Alibaba Indian Restaurant"
+    },
+    {
+      "address": "100 Phan Chu Trinh, Vung Tau 790000 Vietnam",
+      "phone": "+84 254 3835 665",
+      "website": "https://www.facebook.com/cjpubrestaurant/",
+      "open_time": "09:00 AM - 10:00 PM",
+      "details": {
+        "price_range": "₫50 - ₫500",
+        "cuisines": "Seafood, Asian, Deli, Pizza, European",
+        "special_diets": "Vegetarian Friendly, Vegan Options"
+      },
+      "name": "CJ Pub & Restaurant"
+    },
+    {
+      "address": "127 Phan Chu Trinh, Vung Tau Vietnam",
+      "phone": "+84 8 2737 3285",
+      "website": "https://www.facebook.com/pg/tomandjerryvt/about/",
+      "open_time": "08:00 AM - 10:00 PM",
+      "details": {
+        "price_range": "₫60,000 - ₫120,000",
+        "cuisines": "Southwestern, Fast Food, Vietnamese, Bar, Cafe, Pub",
+        "meals": "Breakfast, Lunch, Dinner"
+      },
+      "name": "Tom and Jerry Bar and Cafe"
+    },
+    {
+      "address": "2 Tran Hung Dao, Vung Tau Vietnam",
+      "phone": null,
+      "website": null,
+      "open_time": null,
+      "details": {
+        "cuisines": "Seafood, Asian, Vietnamese",
+        "meals": "Lunch, Dinner, Brunch, Late Night",
+        "features": "Reservations, Outdoor Seating, Seating, Serves Alcohol, Full Bar, Table Service"
+      },
+      "name": "Lan Rung"
+    },
+    {
+      "address": "Ha Long.Phuong 2. TP, Vung Tau Vietnam",
+      "phone": "+84 254 3577 777",
+      "website": "http://ganhhao.com.vn/",
+      "open_time": "09:00 AM - 5:00 PM",
+      "details": {
+        "cuisines": "Seafood, European, Asian, Vietnamese, Healthy",
+        "meals": "Lunch, Dinner, Brunch",
+        "features": "Takeout, Reservations, Outdoor Seating, Seating, Serves Alcohol, Delivery, Parking Available, Street Parking, Free off-street parking, Highchairs Available, Wine and Beer, Accepts Credit Cards, Table Service, Beach, Family style"
+      },
+      "name": "Ganh Hao 2 Restaurant"
+    },
+    {
+      "address": "4 Hoang Dieu Street Ward 1, Vung Tau Vietnam",
+      "phone": "+84 93 233 71 46",
+      "website": "http://offshore.com.vn/",
+      "open_time": "07:00 AM - 02:00 AM",
+      "details": {
+        "price_range": "₫3 - ₫15",
+        "cuisines": "Bar, Asian, Pub",
+        "special_diets": "Vegetarian Friendly"
+      },
+      "name": "Offshore Bar & Hotel Restaurant"
+    },
+    {
+      "address": "3 Le Ngoc Han Street, Ward 1, Vung Tau Vietnam",
+      "phone": "+84 64 3707 845",
+      "website": "http://www.tommysvietnam.com/",
+      "open_time": null,
+      "details": {
+        "cuisines": "Bar, Australian, European, Vietnamese",
+        "meals": "Breakfast, Lunch, Dinner, Late Night",
+        "features": "Seating, Television, Wheelchair Accessible, Serves Alcohol, Reservations, Table Service"
+      },
+      "name": "Tommys sports bar Vung tau Vietnam"
+    },
+    {
+      "address": "06-07 H3, Nguyen Tri Phuong, Vung Tau Vietnam",
+      "phone": "+84 93 303 03 44",
+      "website": "http://www.facebook.com/pages/Kozak/263872516959408?nr",
+      "open_time": null,
+      "details": {
+        "cuisines": "Eastern European, European, Asian",
+        "meals": "Lunch, Dinner, Late Night",
+        "features": "Takeout, Reservations, Seating, Serves Alcohol, Table Service"
+      },
+      "name": "Kozak"
+    },
+    {
+      "address": "14 Nguyen Truong to, P2, Vung Tau Vietnam",
+      "phone": "+84 64 3523 465",
+      "website": null,
+      "open_time": null,
+      "details": {
+        "cuisines": "Vietnamese, Asian",
+        "meals": "Lunch",
+        "features": "Takeout, Seating"
+      },
+      "name": "Banh Khot Goc Vu Sua"
+    }
+  ]
+}
