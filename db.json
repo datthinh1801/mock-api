@@ -1,72 +1,38 @@
 {
-  "restaurantList": [
-    {
-      "address": "2a Phan Chu Trinh, Vung Tau 790000 Vietnam",
-      "phone": "0334830185",
-      "website": "https://www.facebook.com/vungtaupizza/",
-      "open_time": "",
-      "details": {
-        "cuisines": "Pizza, Seafood, Fast Food, Vietnamese, Beer restaurants",
-        "special_diets": "Vegetarian Friendly, Vegan Options",
-        "meals": "Lunch, Dinner, Drinks"
-      },
-      "name": "Pizza Leo"
-    },
-    {
-      "address": "9 Truong Vinh Ky Ward 1, Vung Tau 790000 Vietnam",
-      "phone": "+84 93 337 29 10",
-      "website": "http://Www.bistroninevungtau.com",
-      "open_time": "09:00 AM - 10:00 PM",
-      "details": {
-        "price_range": "₫45,455 - ₫454,545",
-        "special_diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
-        "meals": "Breakfast, Lunch, Dinner, Brunch, Late Night",
-        "cuisines": "French, International, European",
-        "features": "Outdoor Seating, Parking Available, Delivery, Takeout, Reservations, Seating, Street Parking, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts Mastercard, Accepts Visa, Free Wifi, Accepts Credit Cards, Table Service"
-      },
-      "name": "Bistro Nine"
-    },
-  ],
-  "attractionList": [
-    {
-      "about": "All you need to step foot in the door.",
-      "suggested_duration": "2-3 hours",
-      "admission_ticket": "from $16.51",
-      "images": [
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/2a/05/1c/photo8jpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/04/85/62/6b/cu-chi-tunnel-tour-private.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/0e/cu-chi-tunnels.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/0c/cu-chi-tunnels.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/09/cu-chi-tunnels.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/06/cu-chi-tunnels.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/01/cu-chi-tunnels.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f2/ff/cu-chi-tunnels.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f2/fc/cu-chi-tunnels.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f2/f9/cu-chi-tunnels.jpg"
-      ],
-      "address": "Phu Hiep TL15 Phu Hiep, Ho Chi Minh City 700000 Vietnam",
-      "open_time": "7:00 AM - 6:00 PM",
-      "name": "Cu Chi Tunnels"
-    },
-    {
-      "about": "War Remnants Museum is a unit under the Department of Culture, Sports and Tourism Ho Chi Minh City. Located in the museum system of Vietnam, the museum for world peace and a member of the World Council of Museums (ICOM), the War Remnants Museum, the Museum of thematic research, collection , storage, preservation and display of the material, photographs, artifacts on the evidence of the crime and the consequences of the war that the invasion force has caused to Vietnam.Museum store more than 20,000 documents, exhibits and films, in which more than 1,500 documents, artifacts, films have been applied to introduce in eight thematic exhibition frequently. In 35 years, the Museum has welcomed over 15 million visitors at home and abroad. Currently with about 500,000 visitors each year, the War Remnants Museum is one of the only cultural tourism to attract high public credibility at home and abroad.",
-      "suggested_duration": "1-2 hours",
-      "admission_ticket": "from $16.61",
-      "images": [
-        "https://media-cdn.tripadvisor.com/media/photo-l/06/9e/ce/a3/war-remnants-museum.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/17/a4/bc/0c/writing-about-the-war.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/17/2f/06/51/20190416-080244-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/16/a8/45/ae/20190303-005118-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/16/32/fb/87/wp-20190121-11-09-50.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/14/cb/5b/5d/20180923-142742-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/14/99/c4/75/dsc-0888-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/14/6b/b6/ca/cartazes-de-propaganda.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/14/16/e4/ea/tanks.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/10/29/07/1e/photo5jpg.jpg"
-      ],
-      "address": "",
-      "open_time": "",
-      "name": "War Remnants Museum"
-    },
-  ]
+    "restaurantList":[
+        {
+            "name":"Pizza Leo",
+            "address":"2a Phan Chu Trinh, Vung Tau, Vietnam",
+            "phone":"0123456789",
+            "website":"www.google.com",
+            "open_time":"7:00 - 19:00",
+            "details":{
+                "cuisines":"Pizza, Seafood, Fastfood",
+                "special_diets":"Vegetarian Friendly",
+                "meals":"Lunch, Dinner, Drinks"
+            }
+        }
+    ],
+    "attractionList":[
+        {
+            "about": "All you need to step foot in the door.",
+            "suggested_duration": "2-3 hours",
+            "admission_ticket": "from $16.51",
+            "images": [
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/2a/05/1c/photo8jpg.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/04/85/62/6b/cu-chi-tunnel-tour-private.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/0e/cu-chi-tunnels.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/0c/cu-chi-tunnels.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/09/cu-chi-tunnels.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/06/cu-chi-tunnels.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f3/01/cu-chi-tunnels.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f2/ff/cu-chi-tunnels.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f2/fc/cu-chi-tunnels.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-l/1b/72/f2/f9/cu-chi-tunnels.jpg"
+            ],
+            "address": "Phu Hiep TL15 Phu Hiep, Ho Chi Minh City 700000 Vietnam",
+            "open_time": "7:00 AM - 6:00 PM",
+            "name": "Cu Chi Tunnels"
+        }
+    ]
 }
