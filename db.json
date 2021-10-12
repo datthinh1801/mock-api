@@ -26,32 +26,6 @@
       },
       "name": "Bistro Nine"
     },
-    {
-      "address": "152 Phan Chu Trinh, Vung Tau 760000 Vietnam",
-      "phone": "+84 90 264 69 45",
-      "website": "http://www.facebook.com/tajgrillatvungtau",
-      "open_time": "2 min:  Se / e all hours",
-      "details": {
-        "price_range": "₫4 - ₫12",
-        "special_diets": "Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",
-        "meals": "Lunch, Dinner, Late Night",
-        "cuisines": "Indian, Asian",
-        "features": "Delivery, Takeout, Reservations, Seating, Serves Alcohol, Free Wifi, Table Service"
-      },
-      "name": "Taj Grill Indian Restaurant"
-    },
-    {
-      "address": "6 Nguyen Du, Vung Tau 790000 Vietnam",
-      "phone": "+84 93 321 64 25",
-      "website": "http://vtmatildas.com/",
-      "open_time": "",
-      "details": {
-        "cuisines": "Pub, Australian, International",
-        "special_diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
-        "meals": "Breakfast, Lunch, Dinner, Brunch, Drinks"
-      },
-      "name": "Matildas"
-    },
   ],
   "attractionList": [
     {
@@ -93,46 +67,6 @@
       "address": "",
       "open_time": "",
       "name": "War Remnants Museum"
-    },
-    {
-      "about": "À Ố Show is one of Vietnamese Bamboo Circus performances. À Ố - derives from Làng Phố, which means ‘village and city’. À Ố Show tells a captivating story of the transition from the peaceful life of the countryside to the fast-paced metropolitan life of modern Southern Vietnam. The soul of village life and, in stark contrast, familiar scenes from the city, are beautifully brought to life -- with bamboo! The stunning simplicity of the bamboo props frames an awe-inspiring circus featuring acrobatics, contortion, juggling, and stunting. Throughout the show, both traditional and modern music harmonize richly, performed live with 17 musical instruments. À Ố Show has become a world-renowned circus, critically acclaimed in 11 countries.",
-      "suggested_duration": "1-2 hours",
-      "admission_ticket": "",
-      "images": [
-        "https://media-cdn.tripadvisor.com/media/photo-l/0e/e0/0c/e5/basket-a-o-show.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/06/c9/2f/8a/a-o-bicycle.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/19/c1/76/14/refreshment-area-for.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/19/c1/75/de/refreshment-area-for.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/19/c1/75/a6/refreshment-area-for.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/19/c1/6f/ff/saigon-opera-house-from.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/19/82/a4/5f/hoi-an-lune-center-one.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/13/0e/6e/03/a-o-show-audiences.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/13/0e/6e/01/a-o-show-audiences.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/13/0e/6d/fc/a-o-show-audiences.jpg"
-      ],
-      "address": "7 Cong Truong Lam Son District 1, Ho Chi Minh City 700000 Vietnam",
-      "open_time": "9:30 AM - 6:00 PM",
-      "name": "A O Show - Lune Production"
-    },
-    {
-      "about": "Generations ago, Vietnamese puppeteers performed for their rural communities in waist-deep water, bringing to life legends and stories about their region. Water puppetry theaters like Golden Dragon Water Puppet Theater continue that tradition into the modern day and are a fun, family-friendly way to experience a hallmark of traditional Vietnamese culture.water puppet show, which is closely associated with the spiritual life of Vietnamese people, especially in the countryside. The show’s chosen stage is the surface of a water pool. The puppeteers present their clever skills in managing puppets by long bamboo rods and string mechanism under the surface. A traditional Vietnamese orchestra is an excellent music accompaniment. The puppets depict the story from the songs during the show, which reflects the peaceful life of the Vietnamese countryside, so it is not too difficult to understand it.",
-      "suggested_duration": "",
-      "admission_ticket": "from $16.51",
-      "images": [
-        "https://media-cdn.tripadvisor.com/media/photo-l/0f/05/0e/f9/caption.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/0e/aa/3d/8a/caption.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/01/33/e2/50/the-water-puppet-theatre.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/83/14/4b/traditional-vietnamese.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/08/54/36/img-20200228-191531-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/08/54/35/img-20200228-185134-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/08/54/34/img-20200228-183436-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/08/54/33/img-20200228-181813-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1b/08/54/32/img-20200228-170239-largejpg.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-l/1a/bd/01/20/img-20200128-172525-largejpg.jpg"
-      ],
-      "address": "55B Nguyen Thi Minh Khai District 1, Ho Chi Minh City 700000 Vietnam",
-      "open_time": "",
-      "name": "Golden Dragon Water Puppet Theater"
     },
   ]
 }
