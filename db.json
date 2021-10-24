@@ -56,5 +56,51 @@
       "open_time": "7:00 AM - 6:00 PM",
       "name": "Cu Chi Tunnels"
     }
+  ],
+  "hotelList": [
+    {
+      "name": "LOTTE HOTEL SAIGON",
+      "address": "2A - 4A Ton Duc Thang St, District 1, Ho Chi Minh City 70000 Vietnam",
+      "phone": "",
+      "email": "",
+      "about": "Fronting the scenic Saigon River and only 3-5 minute walk to famous Opera House, Dong Khoi Street and Le Thanh Ton Street for shopping, dining and entertainment, LOTTE HOTEL SAIGON, the most beloved 5-star hotel in Ho Chi Minh City, combines natural beauty and sheer opulence to provide the best for the discerning traveler. The breathtaking resort-setting and its distinctive architectural interior gives a feeling of luxury and tranquility. A legendary hotel inherits good and ancient Vietnam with garden falls, pond and fountain. The top pattern of the bronze drum, symbol of the sun, from ancient times, frames the entrance of guest rooms. The twelve horary signs in the atrium, the lobby surrounded by colonnades and the giant horse sculptures all of which induce you to meander in the space of the hotel.",
+      "amenities": {
+        "room_features": [
+          "Air conditioning",
+          "Housekeeping",
+          "Interconnected rooms available",
+          "Room service",
+          "Safe",
+          "Minibar",
+          "Refrigerator",
+          "Flatscreen TV"
+        ],
+        "room_types": [
+          "Non-smoking rooms",
+          "Suites",
+          "Family rooms",
+          "Smoking rooms available"
+        ],
+        "property_amenities": [
+          "Valet parking",
+          "Free High Speed Internet (WiFi)",
+          "Pool",
+          "Fitness Center with Gym / Workout Room",
+          "Bar / lounge",
+          "Airport transportation",
+          "Business Center with Internet Access",
+          "Conference facilities"
+        ]
+      },
+      "images": [
+        "https://media-cdn.tripadvisor.com/media/photo-l/07/45/10/5e/executive-twin-bed-room--v5339256.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-l/07/45/0f/ea/deluxe-suite-king-bed-room--v5339.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-l/07/45/0f/f9/deluxe-suite-king-bed-room--v5339.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-l/07/45/10/1d/deluxe-twin-bed-room--v5339425.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-l/07/45/10/99/presidential-suite--v5339221.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-l/07/45/0f/fd/deluxe-suite-king-bed-room--v5339.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-l/07/45/10/5c/executive-twin-bed-room--v5339279.jpg"
+      ]
+    }
   ]
 }
